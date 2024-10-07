@@ -1,5 +1,11 @@
 h1 {background-color:lightgoldenrodyellow; color:purple; font-family:cursive;}
 .red{color:red}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+  }
 #cake{color:purple;}
 li{font-style:oblique;}
-*{background-color:bisque}
+*{background-color:rgb(162, 155, 147)}
